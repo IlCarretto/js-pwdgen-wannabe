@@ -12,7 +12,7 @@ const userColor = prompt("Qual è il tuo colore preferito?");
 console.log(userColor, typeof(userColor));
 
 // Elaborazione Dati
-const userPassword = userName + userSurname + userColor + 21;
+const userPassword = userName + userSurname + userColor + 26;
 console.log(userPassword, typeof(userPassword));
 
 // Output Utente
